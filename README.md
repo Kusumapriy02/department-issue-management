@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Department Issue and Resource Management System
 
 A comprehensive full-stack web application for managing classroom information, department utilities, lab infrastructure, student issue reporting, and academic project assignments.
@@ -447,3 +448,6 @@ This project is proprietary and for internal use only.
 
 **Last Updated:** April 10, 2026
 **Version:** 1.0.0
+=======
+# department-issue-management
+>>>>>>> 59c7e2c1d03533f6c2e822a80a71e97d017f9b5c
