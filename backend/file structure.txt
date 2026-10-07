@@ -1,0 +1,102 @@
+c:/Users/dharm/finalyrproject/
+├── .vscode/
+│   └── settings.json
+├── backend/
+│   ├─] .env (ignored)
+│   ├── .env.example
+│   ├── .gitignore
+│   ├── config/
+│   │   └── database.js
+│   ├── controllers/
+│   │   ├── authController.js
+│   │   ├── classroomController.js
+│   │   ├── issueController.js
+│   │   ├── labController.js
+│   │   ├── projectController.js
+│   │   ├── statsController.js
+│   │   ├── timetableController.js
+│   │   └── utilityController.js
+│   ├── middleware/
+│   │   ├── auth.js
+│   │   ├── errorHandler.js
+│   │   └── fileUpload.js
+│   ├── models/
+│   │   ├── Classroom.js
+│   │   ├── Issue.js
+│   │   ├── Lab.js
+│   │   ├── Project.js
+│   │   ├── Timetable.js
+│   │   ├── User.js
+│   │   └── Utility.js
+│   ├─] node_modules/ (ignored)
+│   ├── package-lock.json
+│   ├── package.json
+│   ├── reset-users.js
+│   ├── routes/
+│   │   ├── auth.js
+│   │   ├── classroom.js
+│   │   ├── issue.js
+│   │   ├── lab.js
+│   │   ├── project.js
+│   │   ├── stats.js
+│   │   ├── timetable.js
+│   │   └── utility.js
+│   ├── seed.js
+│   ├── server.js
+│   ├── services/
+│   ├── uploads/
+│   │   └─] timetables/ (ignored)
+│   └── utils/
+│       ├── jwtUtils.js
+│       └── passwordUtils.js
+├── DATABASE_SCHEMA.md
+├── frontend/
+│   ├── .env.example
+│   ├── .gitignore
+│   ├─] build/ (ignored)
+│   ├─] node_modules/ (ignored)
+│   ├── package-lock.json
+│   ├── package.json
+│   ├── postcss.config.js
+│   ├── public/
+│   │   └── index.html
+│   ├── src/
+│   │   ├── App.js
+│   │   ├── components/
+│   │   ├── context/
+│   │   │   └── AuthContext.js
+│   │   ├── hooks/
+│   │   ├── index.js
+│   │   ├── pages/
+│   │   │   ├── admin/
+│   │   │   │   ├── Classrooms.js
+│   │   │   │   ├── Labs.js
+│   │   │   │   ├── ManageIssues.js
+│   │   │   │   ├── UploadTimetable.js
+│   │   │   │   ├── UserManagement.js
+│   │   │   │   └── Utilities.js
+│   │   │   ├── AdminDashboard.js
+│   │   │   ├── faculty/
+│   │   │   │   ├── CreateProject.js
+│   │   │   │   ├── ManageTeamMembers.js
+│   │   │   │   ├── ViewClassroomIssues.js
+│   │   │   │   └── ViewMyProjects.js
+│   │   │   ├── FacultyDashboard.js
+│   │   │   ├── LoginPage.js
+│   │   │   ├── student/
+│   │   │   │   ├── ReportIssue.js
+│   │   │   │   └── ViewMyIssues.js
+│   │   │   └── StudentDashboard.js
+│   │   ├── services/
+│   │   │   └── api.js
+│   │   ├── styles/
+│   │   │   └── index.css
+│   │   └── utils/
+│   └── tailwind.config.js
+├── PROJECT_FILES_SUMMARY.md
+├── QUICKSTART.md
+├── README.md
+├── SYSTEM_TEST_REPORT.md
+├── test-system.js
+├── USER_FEATURES_BREAKDOWN.md
+└── verify-servers.js
